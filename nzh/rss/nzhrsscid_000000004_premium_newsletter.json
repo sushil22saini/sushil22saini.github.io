@@ -1,0 +1,434 @@
+{
+  "@version": "2.0",
+  "channel": {
+    "title": "nzherald.co.nz - Sport",
+    "link": "https://www.nzherald.co.nz/",
+    "description": "Latest Sport headlines from nzherald.co.nz",
+    "language": "en-nz",
+    "copyright": "Copyright 2020 APN HOLDINGS NZ",
+    "lastBuildDate": "Mon, 02 Mar 2020 09:00:02 +1200",
+    "docs": "http://blogs.law.harvard.edu/tech/rss",
+    "generator": "APN RSS Generator",
+    "managingEditor": "webnews@nzherald.co.nz",
+    "webMaster": "webmaster@nzherald.co.nz",
+    "image": {
+      "title": "New Zealand Herald  - Sport",
+      "url": "https://www.nzherald.co.nz/images/rssLogo.png",
+      "link": "https://www.nzherald.co.nz/sport/news/headlines.cfm?c_id=4"
+    },
+    "item": [
+      {
+        "title": "Chris Rattue: All Black Rieko Ioane's shift from wing to centre is crazy",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312934&ref=rss",
+        "description": "COMMENT:   Here's a simple message for Rieko Ioane: Keep it simple - get back to doing what you will always do best.  There was a weird irony to the Blues' impressive demolition of the Stormers at Newlands on Sunday morning.  Two of the best players on the park were their wings, and we're not talking Rieko Ioane.   Mark Telea and usual midfielder Joe Marchant shone. Telea has probably been the Blues' star so far in 2020. Marchant, the English import, might not be a world beater but he is shaping as a great acquisition. He is decisive, involved, and",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Sun, 01 Mar 2020 12:48:42 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/202010/200131BluesvChiefs_014_460x230.jpg?media_subtype_id=25|caption=Blues player Rieko Ioane. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/202010/200229StormersvBlues_020_460x230.jpg?media_subtype_id=25|caption=Rieko Ioane looks to get a pass away against the Stormers. Photo / Photosport",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Phil Gifford: The best and worst of the weekend's Super Rugby",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312894&ref=rss",
+        "description": "Ten talking points from Super Rugby, and a translation for those who don't know consultant speak.     IT JUST MAY BE TIME TO PARTY LIKE IT'S 1996   So in Cape Town the Blues play the Stormers, the top team on the South African table, and don't just win 33-14, but are also faster, tougher, stronger, and, possibly most importantly, way, way smarter.  This was the best game from the Blues since Don Brash was leader of the National party, and they banned smoking in bars.  There were outstanding performances all over the field, but the key man",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Sun, 01 Mar 2020 11:51:48 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/202010/Tuipoltu_460x230.jpg?media_subtype_id=25|caption=Patrick Tuipulotu of Blues shouts instructions during the Super Rugby match between DHL Stormers and Blues at DHL Newlands. Photo / Getty Images.",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/202010/SCCZEN_GettyImages-1209390282_460x230.jpg?media_subtype_id=25|caption=Kobus Van Wyk of the Hurricanes celebrates with team mate during the round five Super Rugby match between the Hurricanes and the Sunwolves. Photo / Getty Images.",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/202010/Blues44_460x230.jpg?media_subtype_id=25|caption=Rieko Ioane of Blues during the Super Rugby match between DHL Stormers and Blues. Photo / Getty Images.",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Golf: Third course on horizon for New Zealand Open",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312816&ref=rss",
+        "description": "By Matt Brown in Queenstown   Tournament chairman John Hart believes the New Zealand Open could add a third course to the Pro-Am format as early as 2022.  The NZ Open is held at The Hills and Millbrook and has been in Queenstown for the past nine years. The existing deal expires in 2021 but Hart is confident they will reach agreement with New Zealand Golf to extend it for another five years.  But it's the possibility of turning the tournament into something akin to the Alfred Dunhill Links tournament in Scotland and the Pebble Beach Pro-Am in",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Sun, 01 Mar 2020 06:05:49 +1200",
+        "enclosure": {
+          "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/190303NZOpenDay4MT_081_460x230.jpg?media_subtype_id=25|caption=John Hart. Photo / Photosport",
+          "@length": "2000"
+        }
+      },
+      {
+        "title": "UFC: Dan Hooker clarifies injury report after UFC Auckland win; signals intentions for next fight",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312770&ref=rss",
+        "description": "Standing on the highest point of his mixed martial arts career to date, Kiwi UFC star Dan Hooker just wants to get back to work.   The 30-year-old lightweight has stamped out suggestions he's destined for an injury-enforced layoff after his headline fight against Paul Felder in Auckland, saying he's ready to get straight back to it.    After their five-round battle in Auckland last week, which Hooker won by split decision, the fighters were taken immediately to hospital to be examined. Felder had to be helped out of the octagon by his team after the",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Sun, 01 Mar 2020 06:02:55 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/P1333036_460x230.jpg?media_subtype_id=25|caption=Dan Hooker is ranked No5 in the UFC lightweight rankings. Photo / Nick Winter",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200223UFCFightNight_0741_460x230.jpg?media_subtype_id=25|caption=Dan Hooker has won seven of eight fights in the UFC lightweight division. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200223UFCFightNight_078_460x230.jpg?media_subtype_id=25|caption=Dan Hooker beat Paul Felder by split decision at UFC Fight night 168 in Auckland. Photo / Photosport",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Gregor Paul: New Zealand isn't doing its bit to grow rugby globally",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312776&ref=rss",
+        "description": "New Zealand isn't really doing its bit to grow the global game by supporting the emerging tier of nations. Not really. Not properly or the way it should be, without self-interest and ulterior motive.  It will say that it is – argue that it has sent New Zealand Maori all over the world in the last few years to help build the profile of rugby.  The Maori have been to the USA, Canada and Brazil in recent seasons – so the gospel is being spread. The second tier are getting their fixtures.  But what about the All Blacks? What role",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Sat, 29 Feb 2020 12:09:08 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_RWC2019_SemiFinal_NZvEng_91_460x231.jpg?media_subtype_id=25|caption=Kieran Read, Sam Whitelock, Joe Moody and Beauden Barrett line up for the national anthems at Rugby World Cup. Photo / Photosport.co.nz",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_190810AustraliavAllBlacks_0_460x232.jpg?media_subtype_id=25|caption=Ardie Savea of the All Blacks looks dejected after the teams defeat during the 2019 Bledisloe Cup test match. Photo / Photosport.co.nz",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Boxing: Eddie Hearn - Why Joseph Parker can be a world champion again",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312539&ref=rss",
+        "description": "Joseph Parker's promoter Eddie Hearn says the New Zealand heavyweight has the talent to become a world title holder again and hopes to continue representing him after their deal expires.  Parker's fight against American Shawndell Winters in Frisco, Dallas, tomorrow is the second of three fights under the high-profile Englishman and his Matchroom company and Hearn says he is eager to continue their relationship.  This is only Parker's second fight in 19 months after a spider bite forced him to pull out of last year's scheduled bout against Dereck Chisora in London. Parker's last",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Sat, 29 Feb 2020 06:05:52 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/GettyImages-1147405286_460x231.jpg?media_subtype_id=25|caption=Joseph Parker. Photo / Getty",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/GettyImages-1147195922_460x231.jpg?media_subtype_id=25|caption=Joseph Parker and Eddie Hearn. Photo / Getty",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Paul Lewis: Deontay Wilder was exposed, but so was boxing's nonsense",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312743&ref=rss",
+        "description": "COMMENT:   Thank you, Deontay Wilder for the biggest laugh since I first saw Basil Fawlty's discipline of his misbehaving car with a tree branch.  Yeah, man, you lost your world title to a rampant Tyson Fury because that stupid costume you wore into the ring weighed too much? Ha! Some bright spark then showed you up by remembering a 2018 interview where you said you wore a 20kg vest as part of your training for a fight and put it on that bastion of privacy – the internet.  There was also footage of you wearing a heavy vest in training",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Sat, 29 Feb 2020 06:01:42 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_AP200223183915_460x230.jpg?media_subtype_id=25|caption=Tyson Fury, left, of England, hits Deontay Wilder during a WBC heavyweight championship boxing match Saturday, Feb. 22, 2020, in Las Vegas. (AP Photo/Isaac Brekken)",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_AP200223190311_460x230.jpg?media_subtype_id=25|caption=Tyson Fury, left, of England, fights Deontay Wilder during a WBC heavyweight championship boxing match Saturday, Feb. 22, 2020, in Las Vegas. (AP Photo/Isaac Brekken)",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "UFC 248: Israel Adesanya continuing MMA evolution ahead of middleweight title defence against Yoel Romero",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312695&ref=rss",
+        "description": "Israel Adesanya is everywhere.  From addressing New Zealand's culture of tall poppy syndrome in his acceptance speech at the Halberg Awards, appearing on billboards and buses advertising ESPN, to sharing the stage with Six60 at Western Springs, the UFC  middleweight champion  is out there. And heading into the biggest fight of his career against Cuban Yoel Romero at UFC 248 in Las Vegas next week, the unbeaten Kiwi was taking every experience as an opportunity to evolve.  \"I danced on stage with Six60 in front of 60,000 people — I've done it before, no big deal — but that",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Sat, 29 Feb 2020 05:42:22 +1200",
+        "enclosure": {
+          "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/A_230119NZHMCUFC01_460x230.jpg?media_subtype_id=25|caption=Israel Adesanya will put his UFC middleweight title on the line at UFC 248 in Las Vegas. Photo / Michael Craig",
+          "@length": "2000"
+        }
+      },
+      {
+        "title": "Racing: Catalyst ready for super showdown at A$1 million Australian Guineas",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312730&ref=rss",
+        "description": "There are no more screws to tighten, punters are going to see the best version yet of Kiwi super horse Catalyst in today's A$1 million Australian Guineas.  \"This will be the best he has ever been,\" says Te Awamutu trainer Clayton Chipperfield, who could be excused for leaving a bit in Catalyst's tank heading into today because even though it is a group one against two superstars in Alligator Blood and Alabama Express, Catalyst also has the A$5 million All Star Mile at Caulfield in two weeks.  But he says he is not thinking that far",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Sat, 29 Feb 2020 05:00:00 +1200",
+        "enclosure": {
+          "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_250220SPLCATALYST1_460x230.jpg?media_subtype_id=25|caption=Catalyst (outside) and Alligator Blood fight out the finish in the Hayes Stakes at Flemington. They go head to head again today in the A$1 million Australian Guineas. Photo / Bruno Cannatelli",
+          "@length": "2000"
+        }
+      },
+      {
+        "title": "Gregor Paul: Is this the end of the All Blacks as we know it?",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312684&ref=rss",
+        "description": "COMMENT:   Supposedly, you are not meant to look a gift horse in the mouth. This is the advice many would give to New Zealand Rugby right now as they consider whether to engage in talks with the various private equity groups who want to invest in Southern Hemisphere rugby and specifically the All Blacks.  These are unprecedented times. CVC Capital, which has close to $200bn of investments, is about to buy a stake in the commercial rights of the Six Nations.  There are other groups, just as well funded, who are equally eager to pump money into the game and",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Fri, 28 Feb 2020 16:29:32 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/181124ItalyAllBlacks_047_460x230.jpg?media_subtype_id=25|caption=The All Blacks during the national anthem. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/150924ABsvNamibia_22_460x230.jpg?media_subtype_id=25|caption=The All Blacks applaud Namibia off the field at the 2015 Rugby World Cup. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/RWC2019_SemiFinal_NZvEng_94_460x230.jpg?media_subtype_id=25|caption=The All Blacks perform the haka at the 2019 Rugby World Cup. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/RWC2021_031_460x230.jpg?media_subtype_id=25|caption=New Zealand Rugby Chief Executive Mark Robinson. Photo / Photosport",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Phil Gifford: Why All Blacks need to tell English Rugby Union to get stuffed",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312448&ref=rss",
+        "description": "COMMENT:   Tyson Fury won his world heavyweight title from Deontay Wilder in Las Vegas. No sane person would have suggested that because Wilder was an American he should pick up all the US$7 million purse while the visiting Englishman Fury would only get his hotel bill paid.  Yet that is exactly what happens when the All Blacks play a test against England at Twickenham.  When the All Blacks go to Britain, New Zealand Rugby pays their international air fares but their expenses while in the UK, called the \"landed costs\", are paid by the British or Irish rugby unions",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Fri, 28 Feb 2020 09:30:57 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_190810AustraliavAllBlacks_0_460x231.jpg?media_subtype_id=25|caption=Ardie Savea of the All Blacks looks dejected after the teams defeat during the 2019 Bledisloe Cup test match. Photo / Photosport.co.nz",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_RWC2019_SemiFinal_NZvEng_91_460x230.jpg?media_subtype_id=25|caption=Kieran Read, Sam Whitelock, Joe Moody and Beauden Barrett line up for the national anthems against England. Photo / Photosport.co.nz",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_RWC2019_SemiFinal_NZvEng_67_460x230.jpg?media_subtype_id=25|caption=Beauden Barrett and Anton Lienert-Brown are clapped off the field by England players at the Rugby World Cup. Photo / Mark Mitchell.",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Crystal ball gazing: Rugby writers' round five Super Rugby predictions",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312255&ref=rss",
+        "description": "The Super Rugby season is well and truly underway, with contenders already starting to emerge. Each week, NZME's resident rugby writers will provide their tips for the weekend ahead and highlight one game that stands out from the rest for the round. This week, we look at the Reds' clash against the Sharks in Brisbane on Saturday.    For the first time this season, there won't be a Kiwi team in what should be the game of the round. While this might come across as an odd choice to highlight, the varying opinions as to who will win around",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Fri, 28 Feb 2020 08:32:30 +1200",
+        "enclosure": {
+          "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/B20A4SS1097_460x230.jpg?media_subtype_id=25|caption=The Sharks have made a strong start to the Super Rugby season. Photo / Photosport",
+          "@length": "2000"
+        }
+      },
+      {
+        "title": "Cricket: The remarkable rise of new Black Caps star Kyle Jamieson",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312237&ref=rss",
+        "description": "Gary Stead still remembers the first time he laid eyes on Kyle Jamieson.  It was January 21, 2014, and Stead, in his role as Canterbury coach, had popped along to Burnside Park to catch the national under-19 tournament, where Jamieson's Canterbury side were taking on Auckland.  When he spotted the 6'8\" figure of Jamieson charging in – featuring a blank canvas of a frame that a bowling coach could only dream of - Stead turned to former international-turned-coach Dayle Hadlee with hushed excitement.   READ MORE:    Selection dilemma: The big call the Black Caps have to make     Player",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Fri, 28 Feb 2020 07:04:16 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/GettyImages-1207843710_460x231.jpg?media_subtype_id=25|caption=Kyle Jamieson has made a superb start to his international career. Photo / Getty",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200221_NZvIndia_1stTest_35_460x231.jpg?media_subtype_id=25|caption=Jamieson bowling for the New Zealand Under-19s. Photo / Getty Images",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/GettyImages-475214317_460x230.jpg?media_subtype_id=25|caption=Jamieson bowling for the New Zealand Under-19s. Photo / Getty Images",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200221_NZvIndia_1stTest_08_460x230.jpg?media_subtype_id=25|caption=Kyle Jamieson with dad Michael, during his test debut. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200208_NZvIndia_24_460x230.jpg?media_subtype_id=25|caption=Jamieson played a crucial role with the bat alongside Ross Taylor in his ODI debut. Photo / Photosport",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Rugby: Patrick McKendry - Beat the Stormers and Blues will prove themselves as playoffs contenders",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312265&ref=rss",
+        "description": "Beauden Barrett's hint that he may play for the Blues a little earlier than previously thought may have lifted moods at the franchise but few things will please coach Leon MacDonald in the short term more than a victory in Cape Town against the Stormers.  Another win on Sunday after their last-minute heroics against the Bulls at Loftus Versfeld will consolidate the Blues well into the top half of the table and in this competition – perhaps the weakest in years following the post World Cup departures of various top players – they could pose a serious playoffs threat.    READ",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Thu, 27 Feb 2020 15:05:32 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200131BluesvChiefs_077_460x230.jpg?media_subtype_id=25|caption=Blues halfback Sam Nock. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200214_BluesCrusaders_01_460x230.jpg?media_subtype_id=25|caption=Blues Coach Leon MacDonald. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/gettyimages-1130787511-594x594_460x230.jpg?media_subtype_id=25|caption=John Dobson. Photo / Getty",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "2020 Super Rugby: Australian arrival brings new look to round four team of the week",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12312109&ref=rss",
+        "description": "Round four was one for the Australian and South African conferences, as reflected in Christopher Reive's team of the week.    1. Aidan Ross (Chiefs)   As a team, defence wasn't the Chiefs' strong suit against the Brumbies – but that was no fault of Ross'. The prop continued a string of strong performances, making a heap of tackles and muscling up to try slow down the Brumbies attack. He put in plenty of work at the breakdown and was solid at the set piece.    2. Connal McInerney (Brumbies)   McInerney made his presence felt in a big way on the defensive",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Thu, 27 Feb 2020 10:22:07 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200222ChiefsBrumbies_015_460x231.jpg?media_subtype_id=25|caption=Pete Samu scored two tries in the Brumbies' win over the Chiefs in Hamilton. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/GettyImages-1208552140_460x230.jpg?media_subtype_id=25|caption=Jeandre Rudolph had a strong showing for the Bulls in their loss to the Blues. Photo / Getty Images",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/GettyImages-1207911887_460x230.jpg?media_subtype_id=25|caption=Tate McDermott was a major player in the Reds' win over the Sunwolves. Photo / Getty Images",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/B20BVMN0805_460x231.jpg?media_subtype_id=25|caption=Otere Black kicked the match-winning penalty for the Blues against the Bulls. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200222ChiefsBrumbies_015_460x230.jpg?media_subtype_id=25|caption=Pete Samu scored twice in the Brumbies' win over the Chiefs in Hamilton. Photo / Photosport",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "UFC Auckland: Statement win at UFC Fight Night just the start for rising lightweight star Brad Riddell",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12311916&ref=rss",
+        "description": "When the octagon door closes, Brad Riddell gets primal; his demeanour akin to that of a great white shark.   Standing in his corner as he is introduced to the crowd, there's no emotion in his eyes, no expression on his face. While some fighters play up to the audience during their introduction, Riddell stands there letting the noise wash over him, staring at his opponent.   \"When I walk out, it's just tunnel vision,\" Riddell says. \"Whoever's in the crowd is in the crowd – I appreciate the support, but when I get in there it's just me",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Wed, 26 Feb 2020 16:46:30 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200223UFCFightNight_048_460x230.jpg?media_subtype_id=25|caption=Brad Riddell won his first two bouts in the UFC. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/B-Rad_460x230.jpg?media_subtype_id=25|caption=Brad Riddell has made an impressive start to life in the UFC. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200223UFCFightNight_038_460x230.jpg?media_subtype_id=25|caption=Brad Riddell outstruck Magomed Mustafaev 60 to 36. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/P1311431_460x231.jpg?media_subtype_id=25|caption=Brad Riddell beat Magomed Mustafaev at UFC Fight Night 168 in Auckland. Photo / Nick Winter",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/P1311431_460x230.jpg?media_subtype_id=25|caption=Brad Riddell beat Magomed Mustafaev at UFC Fight Night 168 in Auckland. Photo / Nick Winter",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Rugby league: Three reasons to back the New Zealand Warriors in 2020",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12311825&ref=rss",
+        "description": "Heading into the new NRL season, the Warriors go in with low expectations from fans and pundits. However, these judgments could be premature. Christopher Reive offers three reasons to back the Warriors in 2020.     Breakout potential   Going into the season it looks like there will be plenty of opportunities for young players to impress.   New recruit hooker Wayde Egan could very well be a candidate for this role. A specialist rake, Egan garnered comparisons to a young Cameron Smith, with NRL great Andrew Johns noting similarities between the two players last year.   Challenged to be an 80-minute hooker last",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Wed, 26 Feb 2020 16:03:09 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/190517PanthersvWarriors_052_460x230.jpg?media_subtype_id=25|caption=The Warriors shape up as an intriguing team to watch in 2020. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/190802WarriorsRaiders_191_460x230.jpg?media_subtype_id=25|caption=Many have low expectations for the Warriors in 2020. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200121WarriorsMedia_004_460x230.jpg?media_subtype_id=25|caption=Ken Maumalo working on his finishing during a pre-season training session. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/200205_WarriorsTraining_034_460x230.jpg?media_subtype_id=25|caption=Josh Curran could be a candidate for a breakout season. Photo / Photosport",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Chris Rattue: Why Ardie Savea needs to switch from rugby to league as soon as possible",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12311841&ref=rss",
+        "description": "COMMENT:   I'm not surprised All Black crowd favourite Ardie Savea sounds sick of rugby and is thinking about playing league.  League is a very simple game but at least you get a chance to grab the ball and have a bit of a run around, pass it to your mates now and then, and get in a few big hits.  League has its own limitations, of course. But at least in rugby league, players are given the playing conditions to do the things they have trained for.  Its comparative simplicity is what footy is all about to kids who",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Wed, 26 Feb 2020 15:00:00 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/190907AllBlacksvTongaJW_097_460x230.jpg?media_subtype_id=25|caption=Ardie Savea. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/190810AustraliavAllBlacks_009_460x230.jpg?media_subtype_id=25|caption=Ardie Savea looks to side step past Samu Kerevi. Photo / Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/inpho_01627011_460x230.jpg?media_subtype_id=25|caption=Ardie Savea in action for the All Blacks at the Rugby World Cup. Photo / INPHO/ James Crombie",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Reality check: How Sophie Devine's world turned upside down",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12311101&ref=rss",
+        "description": "It was unfamiliar territory - the White Ferns in an increasingly perilous position against an opponent they had never lost to, the first match of their Twenty20 World Cup campaign teetering on the brink of an upset.  Veteran batswoman Suzie Bates had just departed, her uncharacteristically awkward resolve ending with a tame chip shot to cover, a panicked attempt to alleviate the stifling pressure of the run chase.   61 balls remaining, another 70 runs needed. Step up Sophie Devine.  Just short of seven overs later, a piercing blade through backward point put paid to any chance of an upset, the sixth",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Wed, 26 Feb 2020 00:37:32 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_200210WhiteFernsvSA_50_460x232.jpg?media_subtype_id=25|caption=White Ferns captain Sophie Devine celebrates 100 runs during the ANZ 20/20 series match between the White Ferns and South Africa. Photo / Photosport.co.nz",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_200209WhiteFernsvSA_54_460x230.jpg?media_subtype_id=25|caption=White Ferns captain Sophie Devine plays a shot during the match between the White Ferns and South Africa at the Basin Reserve. Photo Photosport.co.nz",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_200210WhiteFernsvSA_50_460x231.jpg?media_subtype_id=25|caption=White Ferns captain Sophie Devine celebrates 100 runs during the ANZ 20/20 series match between the White Ferns and South Africa. Photo / Photosport.co.nz",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_200209WhiteFernsvSA_67_1_460x230.jpg?media_subtype_id=25|caption=White Ferns captain Sophie Devine celebrates South Africa's Laura Wolvaardt being caught during the match between the White Ferns and South Africa. Photo / Photosport.nz",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_200119BlazevHeartsFinal_23_460x230.jpg?media_subtype_id=25|caption=Blaze's captain Sophie Devine plays shot during the Womens' Super Smash cricket Final match between the Wellington Blaze and Auckland Hearts at the Basin Reserve. Photo / Photosport.co.nz",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/SCCZEN_200210WhiteFernsvSA_50_460x230.jpg?media_subtype_id=25|caption=White Ferns captain Sophie Devine. Photo / Photosport.co.nz",
+            "@length": "2000"
+          }
+        ]
+      },
+      {
+        "title": "Gregor Paul: NZ Rugby can't afford to take All Black star Ardie Savea's league comments lightly",
+        "link": "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12311496&ref=rss",
+        "description": "COMMENT:   It is time for New Zealand Rugby to have a chat with Ardie Savea and find out whether he is serious about wanting to play in the NRL.  He's told the world that he is, but he did that  via a podcast  so it's hard to know whether he's 100 per cent serious when he said he's \"100 per cent keen\" on making the switch.  His podcast host was former NRL player Isaac John and so perhaps Savea was swept along in the moment to the extent that he presented a vague thought as a",
+        "author": "newsfeeds@nzherald.co.nz",
+        "pubDate": "Tue, 25 Feb 2020 12:30:00 +1200",
+        "enclosure": [
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/GettyImages-1183975442_460x230.jpg?media_subtype_id=25|caption=Ardie Savea has expressed an interest in switching from rugby union to league, despite being one of the standouts of last year's Rugby World Cup in Japan. Photo / Getty Images",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/GettyImages-1205880264_460x230.jpg?media_subtype_id=25|caption=An injured Ardie Savea looks on from the sideline during a Hurricanes Super Rugby training session. Photo / Getty  Images",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/190810AustraliavAllBlacks_0_460x230.jpg?media_subtype_id=25|caption=Ardie Savea performs the haka ahead of a Bledisloe Cup test. Photosport",
+            "@length": "2000"
+          },
+          {
+            "@url": "https://media.nzherald.co.nz/webcontent/image/jpg/20209/190810AustraliavAllBlacks_0-2_460x230.jpg?media_subtype_id=25|caption=All Blacks loose forward Ardie Savea. Photosport",
+            "@length": "2000"
+          }
+        ]
+      }
+    ]
+  }
+}
